@@ -1,4 +1,4 @@
-# Dmytri Yeskin  
+# Dmytro Yeskin  
 
 ## Contacts  
 
