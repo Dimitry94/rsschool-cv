@@ -1,0 +1,16 @@
+.title {
+   color: white;
+   font-size: 35px;
+}
+.skills {
+   color: yellow;
+   font-weight: 700;
+   font-family: "Arial";
+}
+#list{
+   font-family: "Arial";
+   font-weight: 500;
+}
+body {
+   background-color: rgb(138, 155, 193);
+}
